@@ -28,7 +28,7 @@ const PRODUCTS = [
     brand: "asics",
     name: "574 Core",
     price: 99.99,
-    category: "New Balance",
+    category: "Asics",
     tag: "new",
     image: 'images/asics.jpg'
   },
