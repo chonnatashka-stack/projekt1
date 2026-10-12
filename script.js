@@ -26,7 +26,7 @@ const PRODUCTS = [
   {
     id: 3,
     brand: "asics",
-    name: "574 Core",
+    name: "Onitsuka Tiger GSM",
     price: 99.99,
     category: "Asics",
     tag: "new",
